@@ -1,5 +1,15 @@
 # SparCon
 
+Code and data for analyses of sparse connectivity (SparCon) assays on stem cell derived neurons and other data (e.g., RNASeq) in Zaslavsky, Zhang et al. 2019.
+
+SparCon assays are an extension of the co-culture approach first advanced in Shcheglovitov et al. (2013) intended to solve the problem of cell culture heterogeneity among stem cell-derived neurons that masks connectivity phenotypes. Specifically, SparCon assays use a consistent lawn of unlabaled neurons into which sparse numbers of differentially fluorescently labeled neurons are seeded. This enables tight control of the synaptogenic environment, as well within-assay (e.g., within a single-well) normalization of assay neurons (e.g., mutant) to benchmark (e.g., control) neurons, permitting comparisons across assays in separate wells, batches of wells, and perhaps different laboratories. Importantly, SparCon assays and within-well normalization significantly increase statistical power to detect differences in connectivity (e.g. synapse number, sEPSC frequency).
+
+In addition to reproducing the plots shown in the main publication, this collection of files also contans generic code to allow users to analyze their own data by performing within-well normalization, Anderson-Darling k-samples tests, and generation of relevant plots.
+
+We apologize for the messiness of the code. We are biologists who have learned to use R in our spare time. Any feedback and suggestions to improve the code are greatly appreciated!
+
+=========
+
 The provided R files are a collection of scripts and datasets used for analysis in the 
 manuscript. Once run, they will re-create plots used in the manuscript.
 Sample output is provided in folders.
