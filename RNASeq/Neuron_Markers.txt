@@ -1,0 +1,49 @@
+NAME	Marker_type	Subtype
+LHX5	Layer	1
+RELN	Layer	1
+TLE1	Layer	2-3
+CUX1	Layer	2-3
+POU3F2	Layer	2-3
+CUX2	Layer	2-4
+LHX2	Layer	2-4
+KCNIP2	Layer	2-4
+ETV1	Layer	5
+CNTN6	Layer	5
+FOXO1	Layer	5
+SEMA3E	Layer	5-6
+TLE4	Layer	5-6
+DKK3	Layer	5-6
+FOXP2	Layer	6
+PPP1R1B	Layer	6
+GAD1	Pre-Syn	GABA
+GAD2	Pre-Syn	GABA
+SYP	Pre-Syn	Pan
+SYN1	Pre-Syn	Pan
+SYN2	Pre-Syn	Pan
+SYT1	Pre-Syn	Pan
+SLC17A6	Pre-Syn	Glu
+SLC17A7	Pre-Syn	Glu
+GPHN	Post-Syn	GABA
+GABRA1	Post-Syn	GABA
+GABRB1	Post-Syn	GABA
+GABRG1	Post-Syn	GABA
+DLG4	Post-Syn	Glu
+SHANK1	Post-Syn	Glu
+SHANK2	Post-Syn	Glu
+SHANK3	Post-Syn	Glu
+HOMER1	Post-Syn	Glu
+DLGAP1	Post-Syn	Glu
+GRIN1	Post-Syn	Glu
+GRIN2A	Post-Syn	Glu
+GRIN2B	Post-Syn	Glu
+GRIA1	Post-Syn	Glu
+GRIA2	Post-Syn	Glu
+GRM1	Post-Syn	Glu
+GRM5	Post-Syn	Glu
+MAP2	Neuron	MT
+TUBB3	Neuron	MT
+PAX6	NPC	
+SOX2	NPC	
+NES	NPC	
+CD44	Glia	
+CXCR4	Glia	
