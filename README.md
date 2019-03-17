@@ -19,8 +19,8 @@ folders as .txt files
 There are 5 folders:
 'SparCon' contains files to perform analyses on SparCon data in the paper
 'GENERIC_SPARCON_ANALYSIS' contains files to perform analyses on your own data.
-'RNASeq' contains files to generate RNASeq analyses and figures in the paper
-'MiniScreen' contains files analyzing screen with chemical modulators in SparCon
+'RNASeq' contains files to generate RNASeq analyses and figures in the paper.
+'MiniScreen' contains files analyzing screen with chemical modulators in SparCon.
 'Dendrite Extension' contains files analyzing the dendrite extension experiment
 
 ####### SparCon Folder ####### 
