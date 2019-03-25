@@ -6,7 +6,7 @@ SparCon assays are an extension of the co-culture approach first advanced in Shc
 
 In addition to reproducing the plots shown in the main publication, this collection of files also contans generic code to allow users to analyze their own data by performing within-well normalization, Anderson-Darling k-samples tests, and generation of relevant plots.
 
-We apologize for the messiness of the code. We are biologists who have learned to use R in our spare time. Any feedback and suggestions to improve the code are greatly appreciated!
+We apologize for the messiness of the code. Any feedback and suggestions to improve the code are greatly appreciated!
 
 =========
 
