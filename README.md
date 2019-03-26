@@ -35,7 +35,7 @@ SparCon_analysis_v1.1.R 	- main analysis file. Will perform within-well normaliz
 Distributions.R 			- fits distributions to datasets and produces corresponding 
 							plots
 							- Requires: SparCon_fn.R, pre-processing of data using 
-							SparCon_analysis_v1.0.R
+							SparCon_analysis_v1.1.R
 
 SparCon_instinsic_ephys.R 	- plots of electrophysiology data of intrinsic membrane 
 							properties
@@ -44,7 +44,7 @@ SparCon_instinsic_ephys.R 	- plots of electrophysiology data of intrinsic membra
 Power_Sims.R 				- performs power simulations and outputs corresponding plots 
 							and tables
 							- Requires: SparCon_fn.R, Power_Sim_Fn.R, pre-processing of 
-							data using SparCon_analysis_v1.0.R
+							data using SparCon_analysis_v1.1.R
 
 Sholl_Analysis.R 			- parses Sholl dataset, performs within-well normalization, 
 							outputs plots and performs statistical analysis
