@@ -59,7 +59,7 @@ Power_Sim_Fn.R 				- contains functions for power simulations by sample size and
 === DATASETS ===
 
 SC_ICC_DB.txt 				- Imaging dataset containing Synapse Number and	Dendrite 
-							Length data for 601 neurons. SparCon_analysis_v1.0.R, 
+							Length data for 601 neurons. SparCon_analysis_v1.1.R, 
 							Distributions.R, and Power_Sims.R use it. 
 
 SC_ICC_DB_norm.txt 			- Within-well normalized dataset derived from
@@ -67,7 +67,7 @@ SC_ICC_DB_norm.txt 			- Within-well normalized dataset derived from
 
 SC_ephys_db.txt				- Electrophysiology dataset containing sEPSC frequency and
 							sEPSC amplitude data for 680 neurons. 
-							SparCon_analysis_v1.0.R, Distributions.R, and Power_Sims.R 
+							SparCon_analysis_v1.1.R, Distributions.R, and Power_Sims.R 
 							use it.
 														
 SC_ephys_db_norm.txt 		- Within-well normalized dataset derived from
